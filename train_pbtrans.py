@@ -85,7 +85,7 @@ def trainModel(split, run, model, dataloaders, criterion, optimizer, save_dir, n
                     loss = criterion(outputs, labels)
                     loss.backward()
                     return loss
-                # forward
+
                 # track history if only in train
                 with torch.set_grad_enabled(phase == 'train'):
                     if is_inception and phase == 'train':
@@ -149,13 +149,7 @@ def trainModel(split, run, model, dataloaders, criterion, optimizer, save_dir, n
 
 
 
-# function for deciding which part is required to be updated
 def freezeModelParameters(model, feature_extracting):
-    '''
-        feature_extracting is a flag for feature extracting.
-        When False, we finetune the whole model,
-        when True we only update the reshaped layer params
-    '''
     if feature_extracting:
         for param in model.parameters():
             param.requires_grad = False
@@ -213,7 +207,7 @@ for split_idx in range(1, split_count+1):
                     params_to_update.append(param)
 
                     
-        #Observe that all parameters are being optimized
+        # Observe that all parameters are being optimized
         optimizer_ft = optim.Adam(params_to_update, lr=Config.learning_ratio)
         criterion = nn.CrossEntropyLoss()
 
