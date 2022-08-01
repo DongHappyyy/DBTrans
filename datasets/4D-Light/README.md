@@ -12,4 +12,4 @@ Paper: https://arxiv.org/pdf/1608.06985.pdf
 Download link: https://cseweb.ucsd.edu//~viscomp/projects/LF/papers/ECCV16/LF_dataset.zip
 
 # Citation
-  T. Wang, J.-Y. Zhu, H. Ebi, M. Chandraker, A. A. Efros, and R. Ramamoorthi, “A 4d light-field dataset and cnn architectures for material recognition,” in ECCV, 2016.
+  T. Wang, J.-Y. Zhu, H. Ebi, M. Chandraker, A. A. Efros, and R. Ramamoorthi, “A 4d light-field dataset and cnn architectures for material recognition,” in ECCV, 2016.
