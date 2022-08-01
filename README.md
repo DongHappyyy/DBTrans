@@ -6,12 +6,9 @@
 
 
 ## Datasets
-[my link](./datasets/FMD/README.md)
-FMD
-DTD
-4D-Light
-KTH-TIPS2-b
-MIT-Indoor
+[FMD](./datasets/FMD/README.md)  [DTD](./datasets/DTD/README.md)  [4D-Light](./datasets/4D-Light/README.md)  [KTH-TIPS2-b](./datasets/KTH-TIPS2-b/README.md) [MIT-Indoor](./datasets/MIT-Indoor/README.md)  
+
+
 
 
 ## Install
