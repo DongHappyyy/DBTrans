@@ -8,7 +8,9 @@ The KTH-TIPS2 databases took this a step further by imaging 4 different samples 
 
 # Link
 Paper: https://ieeexplore.ieee.org/document/1544908
+
 Official website: https://www.csc.kth.se/cvap/databases/kth-tips/index.html
+
 Download link: https://www.csc.kth.se/cvap/databases/kth-tips/kth-tips2-b_col_200x200.tar
 
 # Citation
