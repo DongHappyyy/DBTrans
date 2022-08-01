@@ -6,7 +6,7 @@
 
 
 ## Datasets
-[my link](datasets/FMD/READMD.md)
+[my link](./datasets/FMD/READMD.md)
 FMD
 DTD
 4D-Light
