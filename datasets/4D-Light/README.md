@@ -1,5 +1,5 @@
 # Introduction
-4D Light Field material (4D-Light) [44] is a light-field material dataset with a total of 1200 images. It contains 12 material categories (e.g. fur, fabric, water, etc), and each category has 100 images. It does
+4D Light Field material (4D-Light) is a light-field material dataset with a total of 1200 images. It contains 12 material categories (e.g. fur, fabric, water, etc), and each category has 100 images. It does
 not provide an official train-test split.
 
 
