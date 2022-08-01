@@ -26,7 +26,7 @@ class Config:
     backbone = "resnet50"           # vgg19 resnet18 resnet50 resnet101 densenet161
     dataset_name = "FMD"            #  "DTD" "FMD" "KTH-TIPS2-b" "4D_Light" "MIT-Indoor"
     model_name = "PBTrans"
-    data_dir = f"data/{dataset_name}/splits"
+    data_dir = f"datasets/{dataset_name}/splits"
     output_dir = f"outputs/{model_name}/{dataset_name}"
 
 
