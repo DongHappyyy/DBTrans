@@ -6,7 +6,9 @@ The Describable Textures Dataset (DTD) is an evolving collection of textural ima
 
 # Link
 Paper: https://www.robots.ox.ac.uk/~vgg/publications/2014/Cimpoi14/cimpoi14.pdf
+
 Official website: https://www.robots.ox.ac.uk/~vgg/data/dtd/
+
 Download link: https://www.robots.ox.ac.uk/~vgg/data/dtd/download/dtd-r1.0.1.tar.gz
 
 # Citation
