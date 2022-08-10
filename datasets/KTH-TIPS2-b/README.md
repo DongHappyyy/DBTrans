@@ -3,9 +3,6 @@ The KTH-TIPS (Textures under varying Illumination, Pose and Scale) image databas
 
 The KTH-TIPS2 databases took this a step further by imaging 4 different samples of 11 materials, each under varying pose, illumination and scale.
 
-# Splits
- For KTH-TIPS2-b, we use three samples in each category for training and the rest one for testing. According to this proportion, KTH-TIPS2-b can be divided into four different splits.
-
 # Link
 Paper: https://ieeexplore.ieee.org/document/1544908
 
