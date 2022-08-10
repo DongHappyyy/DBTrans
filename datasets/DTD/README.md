@@ -1,9 +1,6 @@
 # Introduction
 The Describable Textures Dataset (DTD) is an evolving collection of textural images in the wild, annotated with a series of human-centric attributes, inspired by the perceptual properties of textures. This data is made available to the computer vision community for research purposes.
 
-# Splits
- we use officially provided train-test splits for DTD dataset.
-
 # Link
 Paper: https://www.robots.ox.ac.uk/~vgg/publications/2014/Cimpoi14/cimpoi14.pdf
 
