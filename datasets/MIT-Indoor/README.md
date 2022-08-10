@@ -1,9 +1,6 @@
 # Introduction
 Indoor scene recognition is a challenging open problem in high level vision. Most scene recognition models that work well for outdoor scenes perform poorly in the indoor domain. The main difficulty is that while some indoor scenes (e.g. corridors) can be well characterized by global spatial properties, others (e.g., bookstores) are better characterized by the objects they contain. More generally, to address the indoor scenes recognition problem we need a model that can exploit local and global discriminative information.
 
-# Splits
- We use officially provided train-test splits for MIT-Indoor dataset.
-
 # Link
 Paper: http://people.csail.mit.edu/torralba/publications/indoor.pdf
 
