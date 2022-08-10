@@ -2,9 +2,6 @@
 The Flickr Material Database (FMD) dataset contains 10 categories, each containing 100 images.
 Categories: fabric, foliage, glass, leather, metal, paper, plastic, stone, water, and wood. 
 
-# Splits
-We randomly divide the FMD dataset into 10 train-test splits. We divide it by 1:9, test set contains 10 images and train set contains 90 images.
-
 # Link
 Paper: https://pdfs.semanticscholar.org/cd4e/126cbd4e49a81ce96b01013f95b3402a2e0a.pdf  
 Official website: https://people.csail.mit.edu/lavanya/fmd.html  
