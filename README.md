@@ -1,4 +1,4 @@
-# Parallel-Branch Network based on Transformer for Texture Recognition
+# Dual-Branch Network based on Transformer for Texture Recognition
 
 
 ## NEWS
