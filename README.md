@@ -2,7 +2,7 @@
 
 
 ## NEWS
-2022-08-1x：Contribute to TCSVT
+2022-08-17：Contribute to TCSVT
 
 
 ## Datasets
